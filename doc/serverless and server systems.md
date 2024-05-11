@@ -9,5 +9,6 @@ Example; On-premise data center, Virtual Machine.
 - Microsoft SQL Server, 
 
 
+* In serverless systems; cloud providers provide and manage servers while you run your code in response to incoming requests or events.
 Example; AWS Lamda, Azure Functions, GC Functions
 - Amazon Redshift
