@@ -1,4 +1,4 @@
-product_id,name,price,category
+product_id,product_name,price,category
 1,Product 1,193.52,Fashion
 2,Product 2,475.85,Home & Kitchen
 3,Product 3,368.68,Toys

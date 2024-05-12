@@ -12,3 +12,7 @@ Example; On-premise data center, Virtual Machine.
 * In serverless systems; cloud providers provide and manage servers while you run your code in response to incoming requests or events.
 Example; AWS Lamda, Azure Functions, GC Functions
 - Amazon Redshift
+
+## SQLite and PostgreSQL 
+
+ SQLite is a lightweight and serverless database suitable for small-scale applications and embedded systems, while PostgreSQL is a robust and server-based RDBMS designed for enterprise-level applications with high concurrency and scalability requirements. The choice between them depends on factors such as the size and complexity of the application, performance needs, and deployment environment.
