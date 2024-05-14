@@ -29,7 +29,7 @@ Lumia faces the challenge of managing an ever-growing inventory of products, a b
 
 ### Part 1: Serverless Integration with SQLite
 
-- **Objective**: Gain foundational knowledge in SQL through the creation and manipulation of a simple database schema without the complexity of server setup.
+- **Objective**: Use SQL in the creation and manipulation of a simple database schema without the complexity of server setup (Severless system scenerio)
 - **Scenario**: Design a simplified database schema for managing products, customers, orders, and order items.
 - **Database Schema Design**: Includes tables for Products, Customers, Orders, and OrderItems with respective attributes.
 - **Tasks**: Cover DDL, DML, and DQL operations ranging from table creation, data insertion, updates, deletions, to complex queries for data retrieval and analysis.
